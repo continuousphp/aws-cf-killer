@@ -1,6 +1,8 @@
 AWS Cloud Formation killer
 ==========================
 
+[![Build Status](https://status.continuousphp.com/git-hub/continuousphp/aws-cf-killer?token=bd587eb4-e2d3-420a-beec-8765003fe0af&branch=master)](https://continuousphp.com/git-hub/continuousphp/aws-cf-killer)
+
 An application to delete running stacks based on tags matching
 
 ## Requirements

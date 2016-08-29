@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="continuousphp-deploy-agent">
+    <description>Continuous AWS Cloud Formation Killer Coding standard</description>
+    <rule ref="PSR2"/>
+    <file>src</file>
+    <file>tests</file>
+</ruleset>

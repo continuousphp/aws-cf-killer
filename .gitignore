@@ -1,0 +1,6 @@
+/vendor
+composer.phar
+.DS_Store
+.idea
+Thumbs.db
+config/local.php

@@ -12,7 +12,7 @@ An application to delete running stacks based on tags matching
 # Installation
 
 * Download [Composer](https://getcomposer.org/download/): `curl -sS https://getcomposer.org/composer.phar -o composer.phar`
-* Install the Deploy Agent: `php composer.phar create-project -s dev continuousphp/aws-cf-killer`
+* Install the Deploy Agent: `php composer.phar create-project -s dev --no-dev continuousphp/aws-cf-killer`
 
 ## Setup the application
 

@@ -5,7 +5,7 @@ An application to delete running stacks based on tags matching
 
 ## Requirements
 
-* PHP 5.5+
+* PHP 5.6+
 
 # Installation
 
